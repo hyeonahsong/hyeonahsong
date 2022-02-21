@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![hyeonahsong's GitHub stats](https://github-readme-stats.vercel.app/api?username=/hyeonahsong)](https://github.com/hyeonahsong/github-readme-stats)
+[![hyeonahsong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonahsong)](https://github.com/hyeonahsong/github-readme-stats)
 <!--**hyeonahsong/hyeonahsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
